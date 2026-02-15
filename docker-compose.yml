@@ -50,7 +50,6 @@ services:
       - api
       - redis
       - postgres
-      - minio
 
   beat:
     build:
