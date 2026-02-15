@@ -4,7 +4,7 @@ python-multipart==0.0.20
 sqlalchemy==2.0.43
 psycopg2-binary==2.9.10
 celery[redis]==5.5.3
-redis==6.4.0
+redis==5.2.1
 pydantic-settings==2.10.1
 boto3==1.40.29
 Pillow==11.3.0
